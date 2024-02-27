@@ -1,6 +1,17 @@
+/* Form */
 .form-signin{
   border:1px solid grey;
 }
 .submit-btn{
   width:100%
+}
+
+/* banner */
+.carousel-img-box{
+height: 40rem;
+width:100%;
+}
+.bd-placeholder-img{
+  opacity: 0.8;
+  object-fit: cover;
 }
