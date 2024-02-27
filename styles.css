@@ -23,3 +23,12 @@ width:100%;
   grid-template-columns: 0.5fr 11.5fr;  
 }
 
+/* comments */
+.profil-img-container{
+  height: auto;
+  width: 3rem;
+  margin: 0.5rem;
+}
+.comment-profil-image{
+  object-fit: contain;
+}
