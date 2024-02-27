@@ -1,0 +1,2 @@
+## 1.Dropdown :  
+Si le dropdown ne fonctionne pas vérifie si le CDN bootstrap est la derniere version (5.3), ensuite vérifie qu'il y ait le <script> popper. Attention, sur le start template de bootstrap, on n'a besoin que 1 seul script qui fait le job de 3 script de la version 4. le popper est inclus dans le 1er script. Cependant si on veut séparer les script, il faut effacer ce script et coller les 2 script donné. Sinon il y a conflit !
