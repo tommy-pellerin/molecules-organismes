@@ -58,3 +58,11 @@ width:100%;
 .rs-img{
   object-fit: cover;
 }
+/* presentation element */
+.element-img-box{
+  height: 40rem;
+  width: auto;
+}
+.element-img{
+  object-fit: contain;
+}
