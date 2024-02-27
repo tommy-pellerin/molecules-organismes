@@ -24,7 +24,7 @@ width:100%;
 
 .media{
   display: grid;
-  grid-template-columns: 0.5fr 11.5fr;  
+  grid-template-columns: 0.5fr 11.5fr;
 }
 
 /* comments */
@@ -65,4 +65,9 @@ width:100%;
 }
 .element-img{
   object-fit: contain;
+}
+
+/* paiement */
+.paiement-organism{
+  height: 100vh;
 }
